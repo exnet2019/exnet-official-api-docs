@@ -1,0 +1,20 @@
+{
+  "code":"1",
+  "err":"0",
+  "version":"1.0.6",
+  "core_version":"1.0.1",
+  "core_version_ios":"1.0.1",
+  "core_version_android":"1.0.2",
+  "core_update_link":"https://appdownload.exnet.io",
+  "core_en_down_link_ios":"https://apps.apple.com/us/app/%E6%89%8B%E6%9C%BAexnet/id1137006950",
+  "core_zh_down_link_ios":"https://apps.apple.com/us/app/%E6%89%8B%E6%9C%BAexnet/id1137006950",
+  "core_uuid_down_link_ios":"https://zc.pgyer.com/gM3n",
+  "core_en_down_link_android":"https://android-app-download.oss-cn-hongkong.aliyuncs.com/app-with-exnet-v1.0.6_102_jiagu_sign.apk",
+  "core_zh_down_link_android":"https://android-app-download.oss-cn-hongkong.aliyuncs.com/app-with-exnet-v1.0.6_102_jiagu_sign.apk",
+  "coinpay_plug_version":"1.0.3",
+  "min_core_version":"1.0.1",
+  "min_core_version_ios":"1.0.1",
+  "min_core_version_android":"1.0.2",
+  "zipUrl":"https://html-download.oss-cn-hongkong.aliyuncs.com/v1.0.6.zip",
+  "msg":"get success "
+}
