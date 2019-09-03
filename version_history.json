@@ -23,6 +23,11 @@
   },
   "Desktop": [],
   "App": {
+    "1.0.9": {
+      "push_time": "1567479793890",
+      "zh_update_contant": "最新版本：1.0.9<br>更新内容：界面和体验优化，请更新体验吧～",
+      "en_update_contant": "Fixed other minor problems"
+    },
     "1.0.8": {
       "push_time": "1566991287499",
       "zh_update_contant": "最新版本：1.0.8<br>更新内容：新增推广链接，优化深度图显示，修复了一些小Bug，优化了操作体验，请更新体验吧～",
