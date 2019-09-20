@@ -30,12 +30,12 @@
   "App": {
     "1.0.10": {
       "push_time": "1568975359133",
-      "zh_update_contant": "最新版本：1.0.10<br>更新内容：界面和体验优化，请更新体验吧～",
+      "zh_update_contant": "1、增加历史委托详情页<br>2、最新成交颜色纠正<br> 3、优化了操作体验～",
       "en_update_contant": "Fixed other minor problems"
     },
     "1.0.9": {
       "push_time": "1567479793890",
-      "zh_update_contant": "1、增加历史委托详情页<br>2、最新成交颜色纠正<br> 3、优化了操作体验～",
+      "zh_update_contant": "最新版本：1.0.9<br>更新内容：界面和体验优化，请更新体验吧～",
       "en_update_contant": "Fixed other minor problems"
     },
     "1.0.8": {
