@@ -28,6 +28,11 @@
   },
   "Desktop": [],
   "App": {
+    "1.0.11": {
+      "push_time": "1569472628245",
+      "zh_update_contant": "最新版本：1.0.11<br>1、增加\"售卖\"模块（即PC端\"区块未来\"）<br>2、开启了安卓硬件加速<br> 3、优化了操作体验～",
+      "en_update_contant": "Fixed other minor problems"
+    },
     "1.0.10": {
       "push_time": "1568975359133",
       "zh_update_contant": "1、增加历史委托详情页<br>2、最新成交颜色纠正<br> 3、优化了操作体验～",
