@@ -1,9 +1,14 @@
 {
   "Web": {
+    "1.0.6": {
+      "push_time": "1569728679976",
+      "zh_update_contant": "1、优化用户体验和调整界面；<br>2、增加售卖项目所有售卖记录<br>3、增加签到抽奖活动",
+      "en_update_contant": "1.Style compatibility processing. <br>2. Increase all sales records of sales items<br>3. Increase sign-in sweepstakes"
+    },
     "1.0.5": {
       "push_time": "1568975359133",
       "zh_update_contant": "1、优化用户体验和调整界面；<br>2、增加区块未来版块内容<br>3、替换上币申请入口",
-      "en_update_contant": "1.Style compatibility processing. <br>2.Repair K line display.<br>3.Valuation shows repair.<br>4.Increase rate display.<br>5.Fixed other minor problems"
+      "en_update_contant": "1.Style compatibility processing. <br>2. Increase the content of future sections of the block<br>3. Replace the application for entry of the currency"
     },
     "1.0.4": {
       "push_time": "1567072404651",
@@ -28,6 +33,11 @@
   },
   "Desktop": [],
   "App": {
+    "1.0.12": {
+      "push_time": "1569728679976",
+      "zh_update_contant": "最新版本：1.0.12<br>1、增加签到抽奖活动 <br>2、增加客服接入 <br> 3、优化了操作体验～",
+      "en_update_contant": "Fixed other minor problems"
+    },
     "1.0.11": {
       "push_time": "1569472628245",
       "zh_update_contant": "最新版本：1.0.11<br>1、增加\"售卖\"模块（即PC端\"区块未来\"）<br>2、开启了安卓硬件加速（内核v1.0.3）<br> 3、优化了操作体验～",
