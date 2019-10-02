@@ -35,7 +35,7 @@
   "App": {
     "1.0.12": {
       "push_time": "1569956109934",
-      "zh_update_contant": "最新版本：1.0.12<br>1、增加签到抽奖活动 <br>2、增加客服接入 <br>3、优化了行情列表滑动体验 <br>4、修复了Iphone端内核App升级的BUG（内核v1.0.5）<br>5、增加安卓分享功能(内核v1.0.4)",
+      "zh_update_contant": "最新版本：1.0.12<br>1、增加签到抽奖活动 <br>2、增加客服接入 <br>3、优化了行情列表滑动体验 <br>4、修复了Iphone端内核App升级的BUG（内核v1.0.5）<br>5、增加安卓分享功能(内核v1.0.4) <br>6、安卓虚拟按键问题优化(内核v1.0.4)",
       "en_update_contant": "Fixed other minor problems"
     },
     "1.0.11": {
