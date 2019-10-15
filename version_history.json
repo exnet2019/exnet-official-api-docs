@@ -33,6 +33,11 @@
   },
   "Desktop": [],
   "App": {
+    "1.0.14": {
+      "push_time": "1571109458897",
+      "zh_update_contant": "最新版本：1.0.14<br>1、增加了签到抽奖功能 <br>2、增加客服接入<br>3、增加工单接入<br>4、修复了其他一些小问题。",
+      "en_update_contant": "Fixed other minor problems"
+    },
     "1.0.13": {
       "push_time": "1570516789007",
       "zh_update_contant": "最新版本：1.0.13<br>1、修复了部分安卓手机点击无响应的问题 <br>2、优化了推广经理人功能 <br>3、修复了最小充值数量的显示问题",
