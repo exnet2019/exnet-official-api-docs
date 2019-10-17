@@ -19,7 +19,7 @@ Exnet API总则
 }
 ```
 
-**接口调用demo：**
+**CA证书调用demo：**
 - [php](./demo/demo.php)
 - [python](./demo/demo.py)
 - [java](./demo/java)
