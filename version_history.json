@@ -33,6 +33,11 @@
   },
   "Desktop": [],
   "App": {
+    "1.0.15": {
+      "push_time": "1571286414995",
+      "zh_update_contant": "最新版本：1.0.15<br>1、修复了相关bug和界面优化。",
+      "en_update_contant": "Fixed other minor problems"
+    },
     "1.0.14": {
       "push_time": "1571109458897",
       "zh_update_contant": "最新版本：1.0.14<br>1、增加工单接入<br>2、客服接入优化<br>3、修复了其他一些小问题。",
