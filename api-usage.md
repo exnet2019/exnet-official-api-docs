@@ -28,3 +28,5 @@ Response data format description
 	https://github.com/exnet2019/exnet-official-api-docs/tree/master/demo/java
 ### C#	 
 	https://github.com/exnet2019/exnet-official-api-docs/blob/master/demo/demo.cs
+### Ruby	 
+	https://github.com/exnet2019/exnet-official-api-docs/blob/master/demo/demo.rb
