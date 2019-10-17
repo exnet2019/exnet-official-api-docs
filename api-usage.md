@@ -19,7 +19,7 @@ Response data format description
 }
 ```
 
-# Demo：
+# CA certificate Demo：
 ### PHP	 
 	https://github.com/exnet2019/exnet-official-api-docs/blob/master/demo/demo.php	
 ### Pthyon 
