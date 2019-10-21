@@ -16,5 +16,7 @@
   "min_core_version_ios":"1.0.3",
   "min_core_version_android":"1.0.3",
   "zipUrl":"https://html-download.oss-accelerate.aliyuncs.com/v1.0.15.zip",
-  "msg":"get success "
+  "msg":"get success ",
+  "deprecated_version":"1.0.15",
+  "deprecated_core_version":"1.0.0"
 }
