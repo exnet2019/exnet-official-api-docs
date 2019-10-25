@@ -38,6 +38,11 @@
   },
   "Desktop": [],
   "App": {
+    "1.0.18": {
+      "push_time": "1571747321527",
+      "zh_update_contant": "最新版本：1.0.18<br>1、开放全新功能首页，<br> 2、场外交易插件优化<br> 3、统一提示处理<br> 4、其它问题处理",
+      "en_update_contant": "Fixed other minor problems"
+    },
     "1.0.17": {
       "push_time": "1571747321527",
       "zh_update_contant": "最新版本：1.0.17<br>1、放开现金出售$1000的限额 ",
