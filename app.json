@@ -11,7 +11,7 @@
   "core_uuid_down_link_ios":"https://zc.pgyer.com/gM3n",
   "core_en_down_link_android":"https://android-app-download.oss-cn-hongkong.aliyuncs.com/app-exnet_105_jiagu_sign.apk",
   "core_zh_down_link_android":"https://android-app-download.oss-cn-hongkong.aliyuncs.com/app-exnet_105_jiagu_sign.apk",
-  "coinpay_plug_version":"1.1.2",
+  "coinpay_plug_version":"1.1.5",
   "min_core_version":"1.0.3",
   "min_core_version_ios":"1.0.3",
   "min_core_version_android":"1.0.3",
