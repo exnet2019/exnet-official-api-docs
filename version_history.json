@@ -1,5 +1,10 @@
 {
   "Web": {
+    "1.0.8": {
+      "push_time": "1571674225865",
+      "zh_update_contant": "1、优化K线处理 <br>2、优化websocket连接处理",
+      "en_update_contant": "1. Optimize user experience and adjust interface; <br>2, optimize websocket connection processing"
+    },
     "1.0.7": {
       "push_time": "1571674225865",
       "zh_update_contant": "1、优化用户体验和调整界面；<br>2、优化websocket连接处理<br>3、减少备用手机号设置 ",
@@ -38,6 +43,11 @@
   },
   "Desktop": [],
   "App": {
+    "1.0.20": {
+      "push_time": "1571747321527",
+      "zh_update_contant": "最新版本：1.0.20<br>1、K线功能优化处理<br>2、优化websocket连接处理 <br>3、其它问题处理",
+      "en_update_contant": "Fixed other minor problems"
+    },
     "1.0.19": {
       "push_time": "1571747321527",
       "zh_update_contant": "最新版本：1.0.19<br>1、增加签到、抽奖卡抽奖获奖通知显示，<br> 2、场外c2c交易插件升级1.1.5<br> 3、K线的月线参数修正<br>4、减少备用手机号的设置 <br>5、其它问题处理",
