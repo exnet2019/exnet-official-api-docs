@@ -1,7 +1,7 @@
 {
   "code":"1",
   "err":"0",
-  "version":"1.0.19",
+  "version":"1.0.20",
   "core_version":"1.0.3",
   "core_version_ios":"1.0.5",
   "core_version_android":"1.0.5",
@@ -15,8 +15,8 @@
   "min_core_version":"1.0.3",
   "min_core_version_ios":"1.0.3",
   "min_core_version_android":"1.0.3",
-  "zipUrl":"https://exnet.io/download/v1.0.19.zip",
+  "zipUrl":"https://exnet.io/download/v1.0.20.zip",
   "msg":"get success ",
-  "deprecated_version":"1.0.15",
+  "deprecated_version":"1.0.19",
   "deprecated_core_version":"1.0.0"
 }
