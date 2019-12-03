@@ -1,5 +1,10 @@
 {
   "Web": {
+    "1.0.9": {
+      "push_time": "1575363300702",
+      "zh_update_contant": "1、优化K线处理 <br>2、其它问题处理",
+      "en_update_contant": "1. Optimize user experience and adjust interface; "
+    },
     "1.0.8": {
       "push_time": "1571674225865",
       "zh_update_contant": "1、优化K线处理 <br>2、优化websocket连接处理",
@@ -43,6 +48,11 @@
   },
   "Desktop": [],
   "App": {
+    "1.0.21": {
+      "push_time": "1575363300702",
+      "zh_update_contant": "最新版本：1.0.21<br>1、K线功能优化处理 <br>3、其它问题处理",
+      "en_update_contant": "Fixed other minor problems"
+    },
     "1.0.20": {
       "push_time": "1571747321527",
       "zh_update_contant": "最新版本：1.0.20<br>1、K线功能优化处理<br>2、优化websocket连接处理 <br>3、其它问题处理",
